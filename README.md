@@ -1,3 +1,6 @@
+## à partir du cookbook
+cookbook :  [form validation angular.io](https://angular.io/docs/ts/latest/cookbook/form-validation.html)
+
 # Angular QuickStart Source
 [![Build Status][travis-badge]][travis-badge-url]
 
